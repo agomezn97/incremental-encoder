@@ -1,21 +1,6 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
--- 
--- Create Date: 20.12.2020 18:05:17
--- Design Name: 
--- Module Name: enc_rcvr - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
+-- File: Encoder_Receiver.vhd
+-- Created by rtlogik
 ----------------------------------------------------------------------------------
 
 library IEEE;
